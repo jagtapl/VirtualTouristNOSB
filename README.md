@@ -20,8 +20,8 @@ This project uses a Core Data framework, to persists the images as collection. A
 4. Build and Run in iOS Simulator or on your device.
 
 # Overview of the App
-1. Record the sound by tapping the microphone icon.
-2. Stop recording, and app will push the new scene with button for unique audio type of filter.
-3. Select audio filter to play recorded audio by tapping a button like Chipmunk, Parrot etc
-
+1. Press long tap on the preferred location on the map, to drop a pin.
+2. Tap on the pin, and the app will transition to next view to show downloaded images for assocatied location.
+3. Press New Collection button at bottom of view, to download next set of images from Flickr service.
+4. Tap Edit to delete a pin or image by tapping on it.
 
